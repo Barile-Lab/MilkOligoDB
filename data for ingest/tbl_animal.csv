@@ -1,0 +1,78 @@
+Category,Common Name,Order,Family,Genus,Species,Subspecies,NCBILink,NCBITaxID
+"Even-toed Ungulates",Yak,Artiodactyla,Bovidae,Bos,grunniens,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=30521,30521
+"Non-human primates",Chimpanzee,Primates,Pongidae,Pan,troglodytes,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9598,9598
+"Non-human primates","Mongoose Lemur",Primates,Lemuridae,Eulemur,mongoz,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=34828,34828
+"Even-toed Ungulates",Cow,Artiodactyla,Bovidae,Bos,taurus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9913,9913
+Muridae,Mouse,Rodentia,Muridae,Mus,"not specified","",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=10090,10090
+"Even-toed Ungulates","Yezo Sika Deer",Artiodactyla,Cervidae,Cervus,nippon,yesonensis,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=223998,223998
+"Canoidea Carnivores","Polar Bear",Carnivora,Ursidae,Ursus,maritimus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=29073,29073
+"Even-toed Ungulates","Bactrian Camel",Artiodactyla,Camelidae,Camelus,bactrianus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9837,9837
+Cetacea,"Minke Whale",Cetacea,Balaenoptridae,Balaenoptera,acutorostrata,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9767,9767
+Marsupials,"Tiger Quoll",Dasyuromorphia,Dasyuridae,Dasyurus,maculatus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9281,9281
+Pilosa,"Giant Anteater",Pilosa,Myrmecophagidae,Mymecophaga,tridactyla,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=71006,71006
+"Non-human primates","Greater Galago",Primates,Galagidae,Otolemur,crassicaudatus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9463,9463
+"Canoidea Carnivores","Grizzly Bear",Carnivora,Ursidae,Ursus,arctos,horribilis,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=116960,116960
+"Canoidea Carnivores","Ezo Brown Bear",Carnivora,Ursidae,Ursus,arctos,yesoensis,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9644,9644
+"Even-toed Ungulates",Reindeer,Artiodactyla,Cervidae,Rangifer,tarandus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9870,9870
+Pinnipeds,"Hooded Seal",Pinnipedia,Phocidae,Cystophora,cristata,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=39293,39293
+Marsupials,"Brushtail Possum",Diprotodontia,Phalangeridae,Trichosurus,vulpecula,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9337,9337
+"Feloidea Carnivores","African Lion",Carnivora,Felidae,Panthera,leo,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=1446311,1446311
+"Non-human primates",Orangutan,Primates,Pongidae,Pongo,pygmaeus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9600,9600
+Marsupials,"Eastern Quoll",Dasyuromorphia,Dasyuridae,Dasyurus,viverrinus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9279,9279
+"Even-toed Ungulates",Sheep,Artiodactyla,Bovidae,Ovis,aires,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9940,9940
+"Non-human primates","Mantled Howler",Primates,Atelidae,Alouatta,palliata,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=30589,30589
+Cetacea,Beluga,Cetacea,Monodontidae,Delphinapterus,leucas,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9749,9749
+"Even-toed Ungulates",Pig,Artiodactyla,Suidae,Sus,scrofa,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9825,9825
+"Canoidea Carnivores","Domestic Dog",Carnivora,Canidae,Canis,lupus,familiaris,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9615,9615
+"Non-human primates",Gorilla,Primates,Pongidae,Gorilla,gorilla,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9595,9595
+"Even-toed Ungulates",Goat,Artiodactyla,Bovidae,Capra,aegagrus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9923,9923
+"Even-toed Ungulates",Giraffe,Artiodactyla,Giraffidae,Giraffa,camelopardalis,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9894,9894
+"Non-human primates","Coquerel's Sifaka",Primates,Indriidae,Propithecus,coquereli,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=379532,379532
+"Non-human primates","Brown Capuchin",Primates,Cebidae,Sapajus,apella,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9515,9515
+Cetacea,"Bottlenose Dolphin",Cetacea,Delphinidae,Tursiops,truncatus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9739,9739
+Cetacea,"Bryde's Whale",Cetacea,Balaenoptridae,Balaenoptera,brydei,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=255365,255365
+"Canoidea Carnivores","Striped Skunk",Carnivora,Mephitidae,Mephitis,mephitis,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=30548,30548
+Cetacea,"Sei Whale",Cetacea,Balaenoptridae,Balaenoptera,borealis,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9768,9768
+Muridae,Rat,Rodentia,Muridae,Rattus,"not specified","",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=10117,10117
+Sirenia,"Florida Manatee",Sirenia,Trichechidae,Trichechus,manatus,latirostris,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=127582,127582
+"Even-toed Ungulates",Addax,Aritodactyla,Bovidae,Addax,nasomaculatus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=59515,59515
+"Odd-toed Ungulates",Horse,Perissodactyla,Equidae,Equus,caballus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9796,9796
+"Canoidea Carnivores",Raccoon,Carnivora,Procyonidae,Procyonidae,lotor,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9654,9654
+"Non-human primates",Aye-aye,Primates,Daubentonlidae,Daubentonia,madagascariensis,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=31869,31869
+Monotremes,Echidna,Monotreme,Tachyglossidae,Tachyglossus,aculeatus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9261,9261
+"Non-human primates","Common Marmoset",Primates,Callitrichidae,Callithrix,jacchus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9483,9483
+"Odd-toed Ungulates",Donkey,Perissodactyla,Equidae,Equus,asinus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9793,9793
+Pinnipeds,"Crabeater Seal",Pinnipedia,Phocidae,Lobodon,carcinophagus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=101849,101849
+"Feloidea Carnivores",Cheetah,Carnivora,Felidae,Acinonyx,jubatus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=32536,32536
+Marsupials,"Tammar Wallaby",Diprotodontia,Macropodidae,Macropus,eugenii,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9315,9315
+"Non-human primates","Hamadryas Baboon",Primates,Cercopithecidae,Papio,hamadryas,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9557,9557
+"Canoidea Carnivores",Panda,Carnivora,Ursidae,Ailuropoda,melanoleuca,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9646,9646
+"Feloidea Carnivores","Domestic Cat",Carnivora,Felidae,Felis,catus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9685,9685
+Marsupials,Wombat,Diprotodontia,Vombatidae,Vombatus,ursinus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=29139,29139
+Proboscidea,"Asian Elephant",Proboscidea,Elephantidae,Elephas,maximus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9783,9783
+"Canoidea Carnivores",Coati,Carnivora,Procyonidae,Nasua,nasua,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=352831,352831
+"Non-human primates",Bonobo,Primates,Pongidae,Pan,paniscus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9597,9597
+"Non-human primates","Golden Lion Tamarin",Primates,Callitrichidae,Leontopithecus,rosalia,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=30588,30588
+"Non-human primates","Bolivian Squirrel Monkey",Primates,Cebidae,Saimiri,boliviensis,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=39432,39432
+"Even-toed Ungulates","Water Buffalo",Artiodactyla,Bovidae,Bubalus,bubalis,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=89462,89462
+Chiroptera,"Island Flying Fox",Chiroptera,Pteropodiae,Pteropus,hypomelanus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9405,9405
+"Non-human primates","Rhesus Macaque",Primates,Cercopithecidae,Macaca,mulatta,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9544,9544
+"Canoidea Carnivores","Black Bear",Carnivora,Ursidae,Ursus,americanus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9643,9643
+Human,Human,Primates,Hominidae,Homo,sapiens,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9606,9606
+"Feloidea Carnivores",Hyena,Carnivora,Hyaenidae,Crocuta,crocuta,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9678,9678
+"Non-human primates",Siamang,Primates,Hylobatidae,Symphalangus,syndactylus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9590,9590
+"Odd-toed Ungulates","Black Rhinoceros",Perissodactyla,Rhonocerotidae,Diceros,bicornis,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9805,9805
+Marsupials,"Grey Kangaroo",Diprotodontia,Macropodidae,Macropus,giganteus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9317,9317
+Marsupials,Koala,Diprotodontia,Phascolarctidae,Phascolarctos,cinereus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=38626,38626
+Pinnipeds,"Arctic Harbor Seal",Pinnipedia,Phocidae,Phoca,vitulina,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9720,9720
+Monotremes,Platypus,Monotreme,Ornithorhynchidae,Ornithorhynchus,anatinus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9258,9258
+"Non-human primates","Toque Macaque",Primates,Cercopithecidae,Macaca,sinica,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9552,9552
+"Canoidea Carnivores",Mink,Carnivora,Mustelidae,Neovison,vison,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=452646,452646
+"Feloidea Carnivores","Clouded Leopard",Carnivora,Felidae,Neofelis,nebulosa,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=61452,61452
+Pinnipeds,"Bearded Seal",Pinnipedia,Phocidae,Erignathus,barbatus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=39304,39304
+"Even-toed Ungulates","Dromedary Camel",Artiodactyla,Camelidae,Camelus,dromedarius,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9838,9838
+Marsupials,"Goodfellow's Tree Kangaroo",Diprotodontia,Macropodidae,Dendrolagus,goodfellowi,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=69260,69260
+Proboscidea,"African Elephant",Proboscidea,Elephantidae,Loxodonta,africana,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9785,9785
+"Canoidea Carnivores","Japanese Black Bear",Carnivora,Ursidae,Ursus,thibetanus,japonicus,https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=378754,378754
+Marsupials,"Red Kangaroo",Diprotodontia,Macropodidae,Macropus,rufus,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=9315,9321
+"Even-toed Ungulates",Sitatunga,Aritodactyla,Bovidae,Tragelaphus,spekii,"",https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=69298,69298
