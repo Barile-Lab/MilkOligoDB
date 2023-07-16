@@ -13,4 +13,8 @@
 
 For users who want to quickly upload data into spreadsheet software, or otherwise convert it to another format, they can download MilkOligoDB.csv which contains all data in a single file.
 
+If you use data contained here, please cite our paper in Nature Scientific Reports:
+
+Durham, S.D., Wei, Z., Lemay, D.G., Lange, M.C., Barile, D. Creation of a milk oligosaccharide database, MilkOligoDB, reveals common structural motifs and extensive diversity across mammals. Sci Rep 13, 10345 (2023). https://doi.org/10.1038/s41598-023-36866-y
+
 ![ScreenShot](MilkOligoDBDiagram_v1_230131.png)
